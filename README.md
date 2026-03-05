@@ -2,7 +2,8 @@
 
 ## Hi, I'm Bryan 👋
 
-Senior Frontend Developer & Tech Lead. I build interfaces with real architecture behind them — state machines, type-safe contracts, and systems that hold up under pressure.
+I build stuff I actually want to use — mostly full-stack apps around my interests.
+Currently working as a Senior Frontend Dev / Tech Lead by day.
 
 - **[Shonen Mart](https://magnostadt-web.vercel.app)** — Full-stack e-commerce built from scratch. Bun monorepo, Hono, tRPC, Prisma + Stripe webhooks.
 - **[Tri-Gate Tactic](https://tri-gate-tactic.vercel.app)** — Browser strategy card game. Live AniList roster, AI opponent, mid-game persistence.
