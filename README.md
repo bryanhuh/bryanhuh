@@ -1,4 +1,4 @@
-<img src="https://bryand-portfolio.vercel.app/bryanhuh.png" align="right" width="180" />
+<img src="https://bryand-portfolio.vercel.app/bryan.webp" align="right" width="180" />
 
 ## Hi, I'm Bryan 👋
 
